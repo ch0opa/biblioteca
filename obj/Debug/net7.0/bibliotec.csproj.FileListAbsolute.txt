@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\bin\Debug\net7.0\bibliotec.exe
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\bin\Debug\net7.0\bibliotec.deps.json
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\bin\Debug\net7.0\bibliotec.runtimeconfig.json
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\bin\Debug\net7.0\bibliotec.dll
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\bin\Debug\net7.0\bibliotec.pdb
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.dll
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\refint\bibliotec.dll
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.pdb
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\bibliotec.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Documentos\ulbrinha\LP\biblioteca\bibliotec\obj\Debug\net7.0\ref\bibliotec.dll
